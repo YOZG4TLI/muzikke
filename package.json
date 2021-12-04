@@ -1,0 +1,29 @@
+{
+  "name": "v13-muzik-bot",
+  "version": "1.0.0",
+  "description": "v13 Müzik botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.3.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "http": "0.0.1-security",
+    "lyrics-finder": "^21.7.0",
+    "yt-search": "^2.10.2",
+    "zucar-framework": "^1.0.17"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "keywords": [],
+  "author": ""
+}
